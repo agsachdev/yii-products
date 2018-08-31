@@ -1,0 +1,24 @@
+{
+  "name": "powerkernel/yii-products",
+  "description": "Yii auth API module",
+  "type": "yii-module",
+  "homepage": "https://powerkernel.com",
+  "keywords": [
+    "yii",
+    "auth",
+    "api",
+    "module"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ashok Sachdev",
+      "email": "agsachdev@groovyweb.firm.in"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "powerkernel\\yiiproducts\\": "src"
+    }
+  }
+}
